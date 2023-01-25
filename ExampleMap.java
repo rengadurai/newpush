@@ -15,7 +15,7 @@ public class ExampleMap {
 		
 		
 		List<BeanforExampleMap> acs1 = new ArrayList<>();
-		acs1.add(new BeanforExampleMap("Tata", "White", 1.5f, false, 25000));
+		acs1.add(new BeanforExampleMap("Tata", "Orange", 1.5f, false, 25000));
 		acs1.add(new BeanforExampleMap("BlueStar", "Blue", 2f, false, 22000));
 		System.out.println(acs1);
 		
